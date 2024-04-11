@@ -1,1 +1,1 @@
-# The-Binding-of-Isaac
+# RandomMapGenerator
